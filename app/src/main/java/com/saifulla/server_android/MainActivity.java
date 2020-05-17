@@ -28,8 +28,8 @@ public class MainActivity extends AppCompatActivity {
 
     List<DataAdapter> ListOfdataAdapter;
     RecyclerView recyclerView;
-//    String HTTP_JSON_URL = "http://192.168.0.103/dext/index.php";
-    String HTTP_JSON_URL = "https://dexttech.000webhostapp.com/index.php";
+//    String HTTP_JSON_URL = "http://xxxxxxxxx/index.php";
+    String HTTP_JSON_URL = "https://xxxxxxx.000webhostapp.com/index.php";
 
 
     String Video_User_JSON = "v_user";
